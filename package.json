@@ -1,7 +1,7 @@
 {
   "name": "moleculer-infrastructure",
-  "version": "0.1.0",
-  "description": "Orchestration ICU",
+  "version": "1.0.0",
+  "description": "Infraestrutura moleculer com rabbitmq.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/caueprado0/moleculer-infrastructure.git"

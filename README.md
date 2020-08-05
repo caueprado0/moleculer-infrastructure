@@ -1,8 +1,18 @@
-<!-- cSpell:disable -->
-# Copyright
+# Moleculer Infrastructure
 
-Carenet Sistemas e Dispositivos S.A.
+Utilização do pacote de infraestrutura moleculer.
 
-Este código fonte e todos os arquivos relacionados constituem propriedade intelectual da Carenet Sistemas e Dispositivos S.A., NÃO PODENDO SER DIVULGADO, COPIADO, PUBLICADO, ADAPTADO, EXECUTADO, DISTRIBUÍDO ou MODIFICADO, integralmente, parcialmente ou de qualquer forma sem a expressa autorização da mesma.
+## Instalação
 
-This source code and all related files are an intellectual propriety of Carenet Sistemas e Dispositivos S.A. It SHALL NOT BE DISCLOSED, COPIED, PUBLISHED, ADAPTED, PERFORMED, DISTRIBUTED OR MODIFIED in whole, in part or in any way without express written authorization of the part.
+Este módulo está publicado no NPM, por isso você pode instalar usando qualquer gerenciador de pacotes Node.js.
+
+```sh
+npm i moleculer-infrastructure
+
+# Use o comando abaixo para o Yarn.
+yarn add moleculer-infrastructure
+```
+
+## Licença
+
+Lançado sob a licença [MIT](./LICENSE).
